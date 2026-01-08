@@ -2,7 +2,6 @@
 
 **A Automated Home Sanitising System Built on MQTT**
 
-![Project Status](https://img.shields.io/badge/Status-77%25_Complete-yellow)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![University](https://img.shields.io/badge/Institution-Coventry_University-red)
 
